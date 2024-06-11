@@ -1,5 +1,5 @@
 # AI 프로젝트1
-<HAM/SPAM 메시지 분류하기>
+## <HAM/SPAM 메시지 분류하기>
 - 머신러닝 알고리즘을 사용해 ham/spam 메시지를 분류한다.
 ---
 1. 프로젝트 개요
@@ -14,10 +14,18 @@
 3. 프로젝트 한계
    spam 메시지의 형식이 정해져 있는게 아니고 계속 다른 방법으로 발전하고 있기에 현재 내가 만든 웹 페이지를 상용화하는 것은 현실적으로 어렵다. 모델을 계속 업데이트 시켜서 적용하면 될 것이라 생각하지만 업데이트를 한다고 하더라고 분류를 잘못할 확률도 있어 피해가 발생할 수도 있다.
 ---
-
-dd
+## <머신러닝>
 ***
-+
+Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 또는 ham으로 분류한 5,574개의 영어로 된 메시지가 들어있다.
+> https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+---
+*** LogisticRegression *** 모델을 사용했다. LogisticRegression은 이진 분류 문제에 모델로 입력 변수의 선형 조합을 사용해 클래스 확률을 예측하고 그 확률을 기반으로 분류를 수행한다. 로지스틱 회귀를 사용했을 때 다른 모델들보다 성능이 좋게 나왔고 이진 분류에 가장 적합하다고 판단해 ham/spam 분류에서 LogisticRegression을 선택했다. 
+
+---
+
+
+
+
 +__dldldl__
 >> 사진
 ![사진](https://github.com/jjiisoo/1212/blob/main/3.PNG)
