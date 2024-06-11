@@ -37,4 +37,4 @@ text 입력하면 ham/spam 분류해준다.
 
 ---
 ** 웹 페이지 텍스트 입력 화면 **
-![사진](text.JPG)
+![사진](text.jpg.png)
