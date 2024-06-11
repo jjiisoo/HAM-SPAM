@@ -21,12 +21,12 @@
 
 ## ⌛프로젝트 진행⌛
 
-# 1) Dataset
+### 1) Dataset
 
 Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 또는 ham으로 분류한 5,574개의 영어로 된 메시지가 들어있다.
 > https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-# 2) 모델 학습
+### 2) 모델 학습
    
 ### Model 평가
 ![사진](표.JPG)
@@ -34,7 +34,7 @@ Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 
 ***LogisticRegression*** 모델이 가장 좋은 성능을 보이는 것을 확인할 수 있다. 
 
 ---
-# 3) 최적의 모델 선정
+### 3) 최적의 모델 선정
 
 ### Logistic Regression의 혼동행렬
 ![사진](logi.jpg.png)
