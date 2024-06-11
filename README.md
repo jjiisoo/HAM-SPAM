@@ -35,8 +35,13 @@ Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 
 
 ### Logistic Regression
 ![사진](logi.jpg.png)
+
+➮ logistic regression의 혼동행렬
+
 ### Model 평가
 ![사진](표.JPG)
+
+➮ 여러 모델로 학습하고 진행한 결과 logistic regression 성능이 가장 높다.
 
 ---
 
