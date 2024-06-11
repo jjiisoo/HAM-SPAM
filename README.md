@@ -50,4 +50,7 @@ Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 
 ## ⌛Flask를 통해 ham/spam 분류하는 웹 페이지 구축⌛
 
 **✅Flask 웹 페이지 텍스트 입력 화면✅**
+
 ![사진](text.jpg.png)
+
+⏵ 
