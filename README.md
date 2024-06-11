@@ -28,4 +28,4 @@ Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 
 
 +__dldldl__
 >> 사진
-![사진](https://github.com/jjiisoo/1212/blob/main/3.PNG)
+![사진](logi.jpg.png)
