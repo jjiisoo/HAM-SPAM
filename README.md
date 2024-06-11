@@ -26,9 +26,8 @@ Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 
 ---
 
 
-
-
-+__dldldl__
+### Logistic Regression
 >> 사진
 ![사진](logi.jpg.png)
+>> 사진
 ![사진](표.jpg.png)
