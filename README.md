@@ -13,9 +13,9 @@
 ---
 3. 프로젝트 한계
    spam 메시지의 형식이 정해져 있는게 아니고 계속 다른 방법으로 발전하고 있기에 현재 내가 만든 웹 페이지를 상용화하는 것은 현실적으로 어렵다. 모델을 계속 업데이트 시켜서 적용하면 될 것이라 생각하지만 업데이트를 한다고 하더라고 분류를 잘못할 확률도 있어 피해가 발생할 수도 있다.
----
+
 ## <머신러닝>
-***
+
 Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 또는 ham으로 분류한 5,574개의 영어로 된 메시지가 들어있다.
 > https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 ---
