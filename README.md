@@ -53,4 +53,4 @@ Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 
 
 ![사진](text.jpg.png)
 
-🖤 [Flask_app.zip](https://github.com/jjiisoo/1212/edit/main/path/to/Flask_app.zip) 를 클릭해서 저장해 웹 페이지 실행해보세요 🖤
+## 🖤 [Flask_app.zip](https://github.com/jjiisoo/1212/blob/main/Flask_app.zip) 를 클릭해서 저장해 웹 페이지 실행해보세요 🖤
