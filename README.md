@@ -19,7 +19,7 @@
 Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 또는 ham으로 분류한 5,574개의 영어로 된 메시지가 들어있다.
 > https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 ---
-*** LogisticRegression *** 모델을 사용했다. LogisticRegression은 이진 분류 문제에 모델로 입력 변수의 선형 조합을 사용해 클래스 확률을 예측하고 그 확률을 기반으로 분류를 수행한다. 로지스틱 회귀를 사용했을 때 다른 모델들보다 성능이 좋게 나왔고 이진 분류에 가장 적합하다고 판단해 ham/spam 분류에서 LogisticRegression을 선택했다. 
+***LogisticRegression*** 모델을 사용했다. LogisticRegression은 이진 분류 문제에 모델로 입력 변수의 선형 조합을 사용해 클래스 확률을 예측하고 그 확률을 기반으로 분류를 수행한다. 로지스틱 회귀를 사용했을 때 다른 모델들보다 성능이 좋게 나왔고 이진 분류에 가장 적합하다고 판단해 ham/spam 분류에서 LogisticRegression을 선택했다. 
 
 ---
 
