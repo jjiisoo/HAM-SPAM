@@ -30,6 +30,9 @@ Kaggle SMS Spam Collection Dataset을 사용했다. 이 데이터셋에는 spam 
 ![사진](logi.jpg.png)
 ### Model 평가
 ![사진](표.JPG)
+
+---
+
 ## <Flask>
 
 text 입력하면 ham/spam 분류해준다.
