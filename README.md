@@ -13,7 +13,9 @@
 # 사용한 라이브러리
    
    ✎sklearn 
-   ✎NLTK 
+   
+   ✎NLTK
+   
    ✎Matplotlib
 
 # 프로젝트 한계
