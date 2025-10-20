@@ -61,4 +61,4 @@ spam 메시지의 형식이 정해져 있는게 아니고 계속 다른 방법�
 
 ---
 
-## [Flask_app.zip](https://github.com/jjiisoo/1212/blob/main/Flask_app.zip) 를 클릭해서 저장해 웹 페이지 실행해보세요 👍🏻✨︎´-
+## [Flask_app.zip](https://github.com/jjiisoo/1212/blob/main/Flask_app.zip) 를 클릭해서 저장해 웹 페이지 실행해보세요
